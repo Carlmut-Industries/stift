@@ -1,0 +1,2 @@
+# stift
+Verankerung für Weihnachtsbeleuchtung
